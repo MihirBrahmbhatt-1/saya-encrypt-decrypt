@@ -1,0 +1,6 @@
+msix_version: 1.0.0.0
+certificate_path: C:\Windows\System32\SayaExportCertificate.pfx
+certificate_password: Saya@1234
+publisher_display_name: Maxlink
+identity_name: com.maxlink.encryptdecrypt
+publisher: CN=Maxlink
